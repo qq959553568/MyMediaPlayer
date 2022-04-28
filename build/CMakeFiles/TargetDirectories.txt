@@ -1,0 +1,3 @@
+D:/CPP/QtDemo/MyMediaPlayer/build/CMakeFiles/mainwindow.dir
+D:/CPP/QtDemo/MyMediaPlayer/build/CMakeFiles/ALL_BUILD.dir
+D:/CPP/QtDemo/MyMediaPlayer/build/CMakeFiles/ZERO_CHECK.dir
